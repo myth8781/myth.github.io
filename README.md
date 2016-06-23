@@ -1,2 +1,2 @@
-# myth8781.github.io
+# myth.github.io
 MYTH博客
